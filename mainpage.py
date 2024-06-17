@@ -1,6 +1,6 @@
 from tkinter import *
 from pymysql import *
-from pymysql import messagebox
+from tkinter import messagebox
 
 
 def add_customer():
